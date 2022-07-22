@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #8181f3;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.outer-href {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 15px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+a {
+  color: white;
+  padding: 7px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  display: block;
+}
+
+.input-class {
+  display: block;
+  padding: 8px;
+  margin-bottom: 5px;
+  width: 300px;
+  border: none;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  background: blue;
+  color: white;
+  margin: auto;
+  padding: 7px;
+  border: none;
+  border-radius: 3px;
+  display: block;
+  cursor: pointer;
+}
+
+
+
